@@ -1,0 +1,2 @@
+create table family(sno int(5),sname (varchar)(15),fathname (varchar)(20),
+
